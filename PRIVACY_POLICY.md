@@ -120,7 +120,7 @@ and the "Last updated" date revised.
 ## 9. Contact
 
 Questions about privacy can be directed to the project maintainer via the
-BokyLearn repository: https://github.com/sarel-myburgh/BokyLearn
+BokyLearn repository: https://github.com/BokyApps/BokyLearn
 
 ---
 
